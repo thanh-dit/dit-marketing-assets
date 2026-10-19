@@ -38,6 +38,7 @@ brand/          logos and brand marks, when they need a stable public URL
 | `email/signature/icon-instagram-v1.png` | Instagram icon (60×60, shown at 40×40) | Outlook MCP signature, 2026-09-04 |
 | `email/signature/icon-twitter-v1.png` | Twitter icon (57×57, shown at 40×40) | Outlook MCP signature, 2026-09-04 |
 | `email/signature/icon-linkedin-v1.png` | LinkedIn icon (60×60, shown at 40×40) | Outlook MCP signature, 2026-09-04 |
+| `email/signature/icon-youtube-v1.png` | YouTube icon drawn to match the set: red rounded tile, white play button (60×60, shown at 25×25) | Outlook MCP signature, 2026-10-19 |
 | `email/signature/neville-banner-v1.png` | "Ask me anything about nutrition" Neville banner (998×198 @2x for a 499px slot, ~112KB) | Outlook MCP signature, 2026-09-04 |
 | `email/signature/badge-appstore-v1.png` | Apple's official "Download on the App Store" badge, rasterised from the official SVG (168×56, shown at 84×28) | Outlook MCP signature, 2026-09-04 |
 | `email/signature/badge-googleplay-v1.png` | Google's official "Get it on Google Play" badge (478×142, shown at 94×28) | Outlook MCP signature, 2026-09-04 |
