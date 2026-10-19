@@ -1,5 +1,11 @@
 # dit-marketing-assets
 
+> **Moved 2026-10-19.** New emails and signatures load images from the Google Cloud bucket
+> `dit-public-media` (project `ditagtech-assets`): `https://storage.googleapis.com/dit-public-media/<path>`,
+> organised by asset type (`brand/logo/`, `icons/social/`, `icons/app-store/`, `email/signature/`, `email/investor/`).
+> **This repo stays as it is, for good:** every email already sent, and personal signatures, still load from the
+> URLs below (rule 2). Add new assets to the bucket, not here.
+
 **PUBLIC** hosting for marketing assets that must be reachable from anywhere —
 primarily images referenced inside outbound HTML emails. Files here are served via
 `https://raw.githubusercontent.com/thanh-dit/dit-marketing-assets/main/<path>`.
